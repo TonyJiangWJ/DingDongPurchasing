@@ -74,7 +74,7 @@ let default_config = {
 }
 // 不同项目需要设置不同的storageName，不然会导致配置信息混乱
 let CONFIG_STORAGE_NAME = 'autoscript_version'
-let PROJECT_NAME = 'AutoJS 脚手架'
+let PROJECT_NAME = '叮咚抢购'
 let config = {}
 let storageConfig = storages.create(CONFIG_STORAGE_NAME)
 let securityFields = ['password', 'alipay_lock_password']

@@ -1,10 +1,10 @@
 {
-    "name": "autoscript",
+    "name": "叮咚抢购",
     "main": "main.js",
     "ignore": [
-        "build"
+        "build", "logs"
     ],
-    "packageName": "com.autoscript",
+    "packageName": "com.tony.dingdong.purchasing",
     "versionName": "1.0.0",
     "versionCode": 1
 }
